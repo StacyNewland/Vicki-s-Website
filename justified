@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Vicki's Site</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+  
+  <link rel="stylesheet" href="justified.css">
+  <body>
+        
+
+      <!-- Jumbotron -->
+      <div class="jumbotron">
+        <h1>Vicki Wilson Newland</h1>
+        <p class="lead">A writer.  A teacher.  A tutor.</p>
+        <p><a class="btn btn-lg btn-success" href="justified contact" role="button">Contact Information</a></p>
+      </div>
+
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-lg-4">
+          <h2>A writer...</h2>
+          <p>I enjoy writing poetry and short stories, as well as working toward completing a novel.  As I tell my family, "I want to be a writer when I grow up!"</p>
+          <p><a class="btn btn-primary" href="justified writer" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-lg-4">
+          <h2>A teacher...</h2>
+          <p>As a teacher for twenty years, I have gained experience teaching everything from high school senior English to middle school language arts.</p>
+          <p><a class="btn btn-primary" href="justified teacher" role="button">View details &raquo;</a></p>
+       </div>
+        <div class="col-lg-4">
+          <h2>A tutor...</h2>
+          <p>I have had the opportunity to tutor students throughout my career as a teacher, but I want to continue that type of work outside of the profession when I retire.</p>
+          <p><a class="btn btn-primary" href="justified tutor" role="button">View details &raquo;</a></p>
+        </div>
+      </div>
+
+      <!-- Site footer -->
+  
+
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>

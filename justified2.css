@@ -1,0 +1,24 @@
+body {
+  padding-top: 5rem;
+  background-image: url("http://www.planetecampus.com/wp-content/uploads/2014/10/article_livre.jpg");
+  background-size: cover;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+h4 {
+	text-align: center;
+}
+nav{
+	font-size: 1.25em;
+} 
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: navy;
+}
